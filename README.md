@@ -7,3 +7,8 @@ Ther is a little project about hypothesis test in Assignment 4:
   
   the Hypothesis: University towns have their mean housing prices less effected by recessions. Run a t-test to compare the ratio of the     mean price of houses in university towns the quarter before the recession starts compared to the recession bottom
   (price_ratio=quarter_before_recession/recession_bottom)
+
+
+Week_1 to Week_4 is the learning record and some key knowledge
+
+In Original_material, there are all the source data that used in three assignments and that can be accquired from public website.
